@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactme/static/css/main.073c9b0a.css",
+    "main.js": "/reactme/static/js/main.416d36f4.js",
+    "static/js/787.1e2ad92a.chunk.js": "/reactme/static/js/787.1e2ad92a.chunk.js",
+    "index.html": "/reactme/index.html",
+    "main.073c9b0a.css.map": "/reactme/static/css/main.073c9b0a.css.map",
+    "main.416d36f4.js.map": "/reactme/static/js/main.416d36f4.js.map",
+    "787.1e2ad92a.chunk.js.map": "/reactme/static/js/787.1e2ad92a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.416d36f4.js"
+  ]
+}
